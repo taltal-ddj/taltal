@@ -6,7 +6,7 @@
 \title{High Ranking officer Property Data in S.Korea 2018-2019}
 \format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 226 rows and 16 columns.}
 \source{
-https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
+https://news.joins.com/DigitalSpecial/349
 }
 \usage{
 highofficer
