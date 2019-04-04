@@ -1,12 +1,22 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-taltal
-======
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# taltal
 
 The goal of taltal is to ...
 
-Installation
-------------
+## Installation
 
 You can install the released version of taltal from [github](https://github.com/taltal-ddj/highofficier) with:
 
@@ -14,3 +24,4 @@ You can install the released version of taltal from [github](https://github.com/
 # install.packages("remotes")
 remotes::install_github("taltal")
 ```
+
