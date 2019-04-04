@@ -1,6 +1,6 @@
 #' High Ranking officer Property Data in S.Korea 2018-2019
 #'
-#' Every ends of March, Korea Government offer data of High Ranking officer Property Data in S.Korea 2018-2019
+#' Every ends of March, Korea Government offers data of High Ranking officer Property Data in 2018-2019
 #'
 #' @source https://github.com/taltal-ddj/taltal
 #' @format Tibble with columns
