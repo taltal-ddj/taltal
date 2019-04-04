@@ -1,12 +1,12 @@
 Package: taltal
-Title: What the Package Does (One Line, Title Case)
+Title: High Ranking officer Property Data in S.Korea 2018-2019
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Yeowoon",
+           family = "Bae",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "bae.yeowoon@joongang.co.kr")
+Description: Privide High Ranking officer Property Data in S.Korea 2018-2019 from official gazette
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
