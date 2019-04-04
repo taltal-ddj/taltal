@@ -4,26 +4,7 @@
 \name{highofficer}
 \alias{highofficer}
 \title{High Ranking officer Property Data in S.Korea 2018-2019}
-\format{Tibble with columns
-\describe{
-\item{carrier}{Two letter abbreviation}
-\item{name}{Full name}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{name}{Full name}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-\item{carrier}{Two letter abbreviation}
-
-}}
+\format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 226 rows and 16 columns.}
 \source{
 https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
 }

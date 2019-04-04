@@ -6,7 +6,7 @@
 \alias{taltal-package}
 \title{taltal: High Ranking officer Property Data in S.Korea 2018-2019}
 \description{
-Privide High Ranking officer Property Data in S.Korea 2018-2019 from official gazette
+Privide High Ranking officer Property Data in S.Korea 2018-2019 from official gazette.
 }
 \author{
 \strong{Maintainer}: Yeowoon Bae \email{bae.yeowoon@joongang.co.kr}
