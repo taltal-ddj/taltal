@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-taltal
-======
+고위공직자 재산공개
+===================
 
-The goal of taltal is to ...
+중앙일보 데이터저널리즘 **탈탈**팀에서 2018-2019년 고위공직자 재산을 공개합니다
 
 Installation
 ------------
