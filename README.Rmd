@@ -26,6 +26,6 @@ You can install the released version of taltal from [github](https://github.com/
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("taltal")
+remotes::install_github("taltal-ddj/taltal")
 ```
 
