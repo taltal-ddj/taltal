@@ -16,10 +16,10 @@ knitr::opts_chunk$set(
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-중앙일보 데이터저널리즘 **탈탈**팀에서 2018-2019년 `고위공직자재산`을 공개합니다. 고위공직자 재산 데이터는 매년 3월말 정부, 국회, 법원, 헌법재판소, 중앙선거관리위원회에서 공보를 통해 공시하고 있습니다. 추후 프로젝트에서 활용된 데이터는 추가될 예정입니다. PDF를 R코드를 활용해서 변환했으며, 변환 과정에서 작은 오류가 발견될 수 있습니다. 오류는 `issue`에 올려주시면 수정 및 반영하도록 하겠습니다. 
+중앙일보 데이터저널리즘 **탈탈**팀에서 2018-2019년 `고위공직자재산`을 공개합니다. 고위공직자 재산 데이터는 매년 3월말 정부, 국회, 법원, 헌법재판소, 중앙선거관리위원회에서 [전자관보](http://gwanbo.mois.go.kr/user/tema/temaListPage.do)를 통해 PDF로 공개하고 있습니다. `highofficer` 데이터프레임은 공직자 재산 PDF를 R코드를 활용해 변환했으며, 변환 과정에서 작은 오류가 발견될 수 있습니다. 오류는 `issue`에 올려주시면 수정 및 반영하도록 하겠습니다. 
 
-- `highofficer` : 2018-2019년 고위공직자 재산 PDF를 Data.frame으로 변환한 데이터셋
-
+## 패키지에 포함된 데이터셋
+- `highofficer` : 2018-2019년 고위공직자 재산 PDF를 `Data.frame`으로 변환한 데이터셋
 
 ## 칼럼 설명
 
@@ -55,3 +55,6 @@ years | 고위공직자 연도 구분 (2018, 2019) | `numeric`
 remotes::install_github("taltal-ddj/taltal")
 ```
 
+## 참고사항
+
+- Mac, Windows 환경에서 테스트 완료 (다만, 32bit 환경에서 설치 안되는 이슈 발생)
