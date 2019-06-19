@@ -6,7 +6,7 @@
  
 [항공기정보포털시스템(Airportal)](http://atis.koca.go.kr/ATIS/aircraft/forwardPage.do?pageUrl=aircraftRegStat01)에 올라온 항공기 등록현황 데이터셋
 
-[csv 바로가기](https://github.com/taltal-ddj/taltal/blob/master/taltal_raw/airplane_info/airplane_info.csv)
+[데이터셋 바로보기](https://github.com/taltal-ddj/taltal/blob/master/taltal_raw/airplane_info/airplane_info.csv)
 
 R package jsonlite를 활용해 등록정보 838건을 크롤링한 것.
 
