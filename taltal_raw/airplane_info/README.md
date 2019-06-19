@@ -25,12 +25,15 @@ R package jsonlite를 활용해 등록정보 838건을 크롤링한 것.
 | PRJ_GBN         | 사업구분                 | `character`   |
  
 
-## 사용방법
+## 크롤링 방법
 
-`taltal`팀에서 운영하는 GitHub
-[Repository](https://github.com/taltal-ddj/taltal)에서 패키지 다운로드 가능  
-아래 방법을 참고해주세요. 설치 이후에는 `library(taltal)` 후에 `highofficer`로 데이터를 불러오면
-됩니다.
 
 ``` r
-# readr::read_csv("taltal-ddj/taltal")
+# install.packages("jsonlite")  
+library(jsonlite)  
+url <- 'http://atis.koca.go.kr/ATIS/aircraft/statList01.do?AIR_GUBUN=all&_=1560917279832'  
+airplane <- fromJSON(url)  
+airplane <- airplane$data  
+airplane <- airplane %>% 
+  select(-1, -5, -c(13:17))  
+  
