@@ -19,7 +19,7 @@ R package jsonlite를 활용해 등록정보 838건을 크롤링한 것.
 | AIR_AGE         | 기령(항공기 연식)              | `numeric` |
 | REG_DATE        | 항공기 등록일자(국내 기준)       | `date` |
 | AIR_LIMIT_MAN   | 항공기 좌석수                | `numeric` |
-| AIR_FLY_WEIGHT  | 항공기 최대이륙중량(KG)        | `numeric` |
+| AIR_FLY_WEIGHT  | 항공기 최대이륙중량        | `character` |
 | REG_JANG        | 항공기 정치장소              | `character` |
 | PROC_TYPE       | 도입형태(구매, 임차(운용리스), 임구(금융리스))       | `character`   |
 | PRJ_GBN         | 사업구분                 | `character`   |
