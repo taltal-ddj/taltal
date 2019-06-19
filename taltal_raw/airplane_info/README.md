@@ -36,6 +36,5 @@ library(jsonlite)
 url <- 'http://atis.koca.go.kr/ATIS/aircraft/statList01.do?AIR_GUBUN=all&_=1560917279832'  
 airplane <- fromJSON(url)  
 airplane <- airplane$data  
-airplane <- airplane %>% 
-  select(-1, -5, -c(13:17))  
+airplane <- airplane[ ,c(-1, -5, -13:-17)]
   
