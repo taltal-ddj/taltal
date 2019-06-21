@@ -1,8 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # 국내 항공기 등록정보 데이터셋
-
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
  
 [항공기정보포털시스템(Airportal)](http://atis.koca.go.kr/ATIS/aircraft/forwardPage.do?pageUrl=aircraftRegStat01)에 올라온 항공기 등록현황 데이터셋
 
