@@ -8,7 +8,7 @@
 
 [데이터셋 바로보기(df_realgallup2019.csv)](https://github.com/taltal-ddj/taltal/blob/master/taltal_raw/public_opinion_poll/df_realgallup2019.csv)
 
-PDF 형식의 파일을 html로 변환한 뒤 R을 활용해 데이터 전처리, CSV파일로 저장한 것. 
+PDF 형식의 파일을 html로 변환한 뒤 R을 활용해 파싱 및 데이터 전처리, CSV파일로 저장한 것. 
 * html 파일도 올려뒀습니다. 
 
 ## 칼럼 설명
