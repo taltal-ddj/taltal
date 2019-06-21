@@ -1,8 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # 리얼미터-갤럽 여론조사 결과 비교
-
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
  
 국내 대표 여론조사기관인 [리얼미터](http://www.realmeter.net/category/pdf/)와 [갤럽](http://www.gallup.co.kr/gallupdb/report.asp)이 조사 발표한 '2019년 1~6월 문재인 대통령 국정평가' 결과 데이터셋
 
