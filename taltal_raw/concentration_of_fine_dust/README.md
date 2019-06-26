@@ -7,7 +7,7 @@
 
 [데이터셋 바로보기](https://raw.githubusercontent.com/taltal-ddj/taltal/master/taltal_raw/concentration_of_fine_dust/mise.csv)
 
-에어코리아 API(공공데이터포털), [서울시 대기환경정보](http://cleanair.seoul.go.kr/main.htm)등을 참고해 미세먼지 데이터 수집한 뒤 가공한 것
+에어코리아 오픈API([공공데이터포털](https://www.data.go.kr)), [서울시 대기환경정보](http://cleanair.seoul.go.kr/main.htm) 등을 참고해 미세먼지 데이터 수집한 뒤 가공한 것
 
 ## 칼럼 설명
 
