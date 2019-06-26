@@ -17,7 +17,7 @@
 | date            | 관측일자                     | `date` |
 | concentration   | 미세먼지 농도(㎍/m³), 관측 평균치 | `numeric` |
 | standard        | 미세먼지 기준(좋음, 보통, 나쁨, 매우나쁨), WHO 권고치 | `character` |
-| PM              | 미세먼지 종류(미세먼지(PM10), 초미세먼지(PM2.5) | `character` |
+| PM              | 미세먼지 종류(미세먼지(PM10), 초미세먼지(PM2.5)) | `character` |
 
 ## 미세먼지 기준
 
