@@ -34,3 +34,9 @@
 | 보통             | 16~50                     | 16~25 |
 | 나쁨             | 51~100                    | 26~50 |
 | 매우나쁨           | 101~                     | 51~ |
+
+## R로 데이터 불러올 때
+
+``` r
+#library(tidyverse)
+df_mise <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSeHC434NgPFobridB9YncQiiZcZQerb_8Kd8Mt8qNuBmjCRBUn38hGBqFURNqojK9fDwKQ_FRj9_YR/pub?gid=0&single=true&output=csv")
