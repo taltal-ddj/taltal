@@ -39,7 +39,6 @@ yeard <- c("2011_limit0_b785bc262014363993bdf924ed599a48", "2012_limit0_b9022e9c
 "2019_limit0_7216a250f6ae72c71cd09563798a9f18") #연도별 url 변경 부분
 
 # for문으로 2011~2019년 데이터 한꺼번에 정리  
-
 times_rank <- NULL #2011~2015년 데이터   
 times_rank1 <- NULL #2016~2019년 데이터  
    
