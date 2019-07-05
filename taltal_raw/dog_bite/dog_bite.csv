@@ -1,211 +1,92 @@
-﻿breed,attacks_doing_bodily_harn,child_victims,adult_victims,deaths,maimings,dog_pct
-Pit bull,4008,1550,1648,328,2567,6.6
-Beagle,4,3,1,1,3,5.5
-Chihuahua,1,1,0,0,1,3.3
-Belgian shepherd,13,8,4,0,8,2.9
-Boston terrier,2,0,1,1,0,2.2
-Chow,2,1,1,0,2,2
-German shepherd,123,67,47,15,81,2
-German shepherd,2,1,1,0,2,2
-Border collie,4,2,2,1,4,1.7
-Setter,1,0,1,0,1,1.6
-Akita,75,46,25,8,57,1.5
-Bernese mountain dog,1,0,1,0,1,1.5
-Hound,3,2,1,0,3,1.4
-Keeshond,1,0,1,1,0,1.4
-Pomeranian,1,1,0,1,0,1.4
-Great Dane,39,14,9,3,21,1.2
-Airedale,2,1,1,2,0,1
-Briard,4,1,2,1,2,1
-Bull mastiff,115,49,42,18,67,1
-Collie,1,1,0,0,1,1
-Karelian bear dog,1,0,1,0,1,1
-Labrador,60,38,22,3,48,1
-Retriever,1,1,0,0,1,1
-Cane Corso,24,6,12,2,15,0.9
-Dogo Argentino,5,2,3,1,3,0.9
-Golden retriever,11,9,2,3,7,0.9
-Italian mastiff,24,6,12,2,15,0.9
-Labrador,30,18,11,2,25,0.9
-Rottweiler,571,310,153,88,314,0.9
-Saint Bernard,13,9,2,1,8,0.9
-Cocker spaniel,2,2,0,0,2,0.8
-Dachschund,6,3,3,1,6,0.8
-Doberman,26,15,9,8,15,0.8
-Husky,90,52,10,27,29,0.8
-Newfoundland,2,0,1,0,1,0.8
-Shih Tzu,5,2,3,0,5,0.8
-Collie,4,4,0,1,3,0.7
-Greyhound,1,1,0,0,1,0.7
-Jack Russell terrier,5,3,1,2,2,0.7
-Poodle,4,2,1,0,1,0.7
-West Highland terrier,2,0,2,1,1,0.7
-Bulldog,24,14,6,1,17,0.6
-Dalmatian,3,3,0,0,3,0.6
-Mastiff,30,25,5,5,19,0.6
-Schnauzer,1,0,1,1,0,0.6
-Unidentified,157,47,57,14,77,0.6
-Boxer,77,23,28,8,40,0.5
-Chow,66,37,22,8,44,0.5
-Rhodesian ridgeback,3,2,1,1,2,0.5
-Russian terrier,1,0,1,0,1,0.3
-Sharpei,6,6,0,0,6,0.3
-Weimaraner,2,2,0,1,1,0.3
-Wheaten terrier,3,1,1,0,2,0.3
-Coonhound,3,1,2,1,1,0.2
-Shiba Inu,3,1,1,1,1,0.2
-Norwegian elkhound,1,0,1,0,1,0.06
-Fila Brasiero,5,1,1,1,1,0.05
-Malamute,15,12,2,6,5,0.02
-Catahoula,4,1,1,1,1,0.01
-Maremma,1,0,1,0,1,0.01
-Wolf hybrid,87,72,5,19,51,0.01
-Airedale,1,1,0,1,0,0
-Akita,2,2,0,0,2,0
-Akita,3,3,0,0,3,0
-Akita,1,1,0,0,1,0
-Akita,2,1,0,0,1,0
-Akita,5,1,4,0,5,0
-Anatolian shepherd,1,1,0,0,1,0
-Australian blue heeler,13,4,2,1,5,0
-Australian shepherd,13,8,3,0,7,0
-Australian shepherd,1,0,1,1,0,0
-Australian shepherd,3,2,0,0,2,0
-Basset,2,0,2,0,2,0
-Basset,1,1,0,1,0,0
-Basset,1,1,0,0,1,0
-Basset,1,1,0,1,0,0
-Beagle,1,2,1,0,1,0
-Beagle,1,1,0,0,1,0
-Black mouth cur,4,3,1,0,4,0
-Blue heeler,20,2,3,0,5,0
-Blue heeler,2,1,1,0,1,0
-Boston terrier,1,1,0,0,1,0
-Boxer,1,1,0,0,1,0
-Boxer,1,1,0,0,1,0
-Boxer,1,1,0,0,1,0
-Boxer,1,1,0,1,0,0
-Boxer,3,1,2,0,3,0
-Boxer,10,3,5,2,6,0
-Boxer,1,1,0,0,1,0
-Boxer,1,1,0,1,0,0
-Boxer,1,1,0,1,0,0
-Boxer,1,0,1,0,0,0
-Brittany spaniel,4,1,0,0,1,0
-Buff mastiff,2,1,1,0,2,0
-Bull mastiff,2,1,0,1,0,0
-Bull mastiff,1,1,0,1,0,0
-Bull mastiff,1,1,0,0,1,0
-Bull terrier,3,1,1,0,1,0
-Cane Corso,1,1,0,1,1,0
-Catahoula,1,0,1,1,0,0
-Caucasian shepherd,1,0,1,0,1,0
-Cavalier King Charles spaniel,1,0,1,0,1,0
-Chesapeake Bay retriever,3,3,0,0,2,0
-Chow,2,2,0,1,1,0
-Chow,5,5,0,0,4,0
-Chow,1,1,0,0,1,0
-Chow,7,7,1,1,7,0
-Chow,13,5,4,1,7,0
-Chow,3,3,0,0,3,0
-Coton de Tulear,1,0,1,0,1,0
-Dalmatian,1,1,0,0,1,0
-Doberman,1,1,0,0,1,0
-Doberman,3,3,0,0,3,0
-Doberman,1,0,1,0,1,0
-Doge de Bordeaux,2,1,0,0,1,0
-Doge du Bordeaux,2,2,0,0,2,0
-East Highland terrier,1,0,1,1,0,0
-English bulldog,1,1,0,0,1,0
-Fila Brasiero,1,NA,1,1,1,0
-German shepherd,46,28,15,7,31,0
-German shepherd,4,4,0,0,1,0
-German shepherd,6,5,1,2,3,0
-German shepherd,13,4,3,2,5,0
-German shepherd,1,1,0,0,1,0
-German shepherd,2,1,0,1,0,0
-German shepherd,1,1,0,1,0,0
-German shepherd,41,18,16,5,31,0
-Golden retriever,2,1,1,1,1,0
-Golden retriever,1,1,0,0,1,0
-Great Dane,2,1,2,0,3,0
-Great Dane,1,1,0,0,1,0
-Great Pyranees,1,0,1,0,1,0
-Great Pyrenees,4,1,2,1,2,0
-Husky,2,2,0,0,2,0
-Husky,2,1,1,0,2,0
-Husky,3,0,2,1,1,0
-Husky,10,7,5,4,6,0
-Jack Russell terrier,1,1,0,0,1,0
-Labrador,2,1,1,0,1,0
-Labrador,1,0,1,0,0,0
-Labrador,1,1,0,0,1,0
-Labrador,1,0,1,0,1,0
-Labrador,1,1,0,0,1,0
-Labrador,65,37,18,8,43,0
-Labrador,9,8,1,0,9,0
-Labrador,7,6,1,0,6,0
-Malamute,2,2,0,0,2,0
-Malinois,4,4,0,0,1,0
-Mastiff,1,1,0,1,0,0
-Mastiff,2,1,1,1,1,0
-Mini-pinscher,1,1,0,0,1,0
-Old English sheep dog,2,1,1,2,0,0
-Old English sheep dog,2,1,1,0,2,0
-Pit bull,4,0,4,0,4,0
-Pit bull,2,1,0,0,1,0
-Pit bull,1,2,1,0,1,0
-Pit bull,11,3,4,1,5,0
-Pit bull,1,0,1,0,1,0
-Pit bull,2,2,0,0,2,0
-Pit bull,2,2,0,0,2,0
-Pit bull,1,1,0,0,1,0
-Pit bull,1,0,2,0,2,0
-Pit bull,22,8,8,1,17,0
-Pit bull,1,0,1,1,0,0
-Pit bull,46,29,13,5,33,0
-Pit bull,2,2,0,0,2,0
-Pit bull,56,12,9,2,17,0
-Pit bull,1,1,0,0,1,0
-Pit bull,3,2,1,0,3,0
-Pit bull,7,4,0,0,4,0
-Pit bull,1,0,1,0,1,0
-Pit bull,1,1,1,0,2,0
-Pit bull,23,3,3,1,6,0
-Pit bull,2,1,1,2,1,0
-Pit bull boxer,37,14,17,2,25,0
-Plott hound,10,0,1,0,1,0
-Pointer,1,0,1,0,0,0
-Poodle,1,1,0,0,1,0
-Pug,1,1,0,0,1,0
-Pug,2,1,0,1,0,0
-Queensland heeler,5,0,3,0,3,0
-Rat terrier,2,0,1,0,1,0
-Rhodesian ridgeback,2,2,0,0,2,0
-Rhodesian ridgeback,1,1,0,1,0,0
-Rottweiler,2,2,0,0,2,0
-Rottweiler,18,9,8,3,14,0
-Rottweiler,1,0,3,0,2,0
-Rottweiler,8,7,1,0,8,0
-Rottweiler,2,1,1,1,1,0
-Rottweiler,56,12,9,2,17,0
-Rottweiler,4,2,1,0,3,0
-Rottweiler,2,1,0,1,0,0
-Sharpei,2,1,0,0,1,0
-Sharpei,2,2,0,0,2,0
-Sharpei,1,1,0,0,1,0
-Sharpei,3,NA,1,1,3,0
-Sharpei,4,3,1,0,4,0
-Sheltie,7,4,0,0,4,0
-Silver Lab,1,1,0,0,1,0
-Springer spaniel,4,5,0,0,5,0
-St. Bernard,1,1,0,0,1,0
-St. Bernard,1,1,0,0,1,0
-Terrier,1,1,0,0,1,0
-Terrier,2,1,0,0,1,0
-Terrier,2,0,2,0,2,0
-Tosa,1,1,0,0,1,0
-Unidentified,2,2,0,0,2,0
-Weimaraner,1,0,1,0,1,0
-Weimaraner,1,1,0,0,1,0
-Wolf hybrid,1,1,1,0,2,0
+﻿breed,attacks_doing_bodily_harm,child_victims,adult_victims,deaths,maimings,dog_pct,d_plus_m
+Airedale,3,2,1,3,0,1,3
+Akita,88,54,29,8,69,1.5,77
+Anatolian shepherd,1,1,0,0,1,0,1
+Australian blue heeler,13,4,2,1,5,0,6
+Australian shepherd,17,10,4,1,9,0,10
+Basset,5,3,2,2,3,0,5
+Beagle,6,6,2,1,5,5.5,6
+Belgian shepherd,13,8,4,0,8,2.9,8
+Bernese mountain dog,1,0,1,0,1,1.5,1
+Black mouth cur,4,3,1,0,4,0,4
+Blue heeler,22,3,4,0,6,0,6
+Border collie,4,2,2,1,4,1.7,5
+Boston terrier,3,1,1,1,1,2.2,2
+Boxer,98,34,36,13,53,0.5,66
+Briard,4,1,2,1,2,1,3
+Brittany spaniel,4,1,0,0,1,0,1
+Buff mastiff,2,1,1,0,2,0,2
+Bull mastiff,119,52,42,20,68,1,88
+Bull terrier,3,1,1,0,1,0,1
+Bulldog,24,14,6,1,17,0.6,18
+Cane Corso,25,7,12,3,16,0.9,19
+Catahoula,5,1,2,2,1,0.01,3
+Caucasian shepherd,1,0,1,0,1,0,1
+Cavalier King Charles spaniel,1,0,1,0,1,0,1
+Chesapeake Bay retriever,3,3,0,0,2,0,2
+Chihuahua,1,1,0,0,1,3.3,1
+Chow,99,61,28,11,69,2.5,80
+Cocker spaniel,2,2,0,0,2,0.8,2
+Collie,5,5,0,1,4,1.7,5
+Coonhound,3,1,2,1,1,0.2,2
+Coton de Tulear,1,0,1,0,1,0,1
+Dachschund,6,3,3,1,6,0.8,7
+Dalmatian,4,4,0,0,4,0.6,4
+Doberman,31,19,10,8,20,0.8,28
+Doge de Bordeaux,2,1,0,0,1,0,1
+Doge du Bordeaux,2,2,0,0,2,0,2
+Dogo Argentino,5,2,3,1,3,0.9,4
+East Highland terrier,1,0,1,1,0,0,1
+English bulldog,1,1,0,0,1,0,1
+Fila Brasiero,6,NA,2,2,2,0.05,4
+German shepherd,239,130,83,33,155,4,188
+Golden retriever,14,11,3,4,9,0.9,13
+Great Dane,42,16,11,3,25,1.2,28
+Great Pyranees,1,0,1,0,1,0,1
+Great Pyrenees,4,1,2,1,2,0,3
+Greyhound,1,1,0,0,1,0.7,1
+Hound,3,2,1,0,3,1.4,3
+Husky,107,62,18,32,40,0.8,72
+Italian mastiff,24,6,12,2,15,0.9,17
+Jack Russell terrier,6,4,1,2,3,0.7,5
+Karelian bear dog,1,0,1,0,1,1,1
+Keeshond,1,0,1,1,0,1.4,1
+Labrador,177,110,56,13,135,1.9,148
+Malamute,17,14,2,6,7,0.02,13
+Malinois,4,4,0,0,1,0,1
+Maremma,1,0,1,0,1,0.01,1
+Mastiff,33,27,6,7,20,0.6,27
+Mini-pinscher,1,1,0,0,1,0,1
+Newfoundland,2,0,1,0,1,0.8,1
+Norwegian elkhound,1,0,1,0,1,0.06,1
+Old English sheep dog,4,2,2,2,2,0,4
+Pit bull,4198,1624,1698,341,2673,6.6,3014
+Pit bull boxer,37,14,17,2,25,0,27
+Plott hound,10,0,1,0,1,0,1
+Pointer,1,0,1,0,0,0,0
+Pomeranian,1,1,0,1,0,1.4,1
+Poodle,5,3,1,0,2,0.7,2
+Pug,3,2,0,1,1,0,2
+Queensland heeler,5,0,3,0,3,0,3
+Rat terrier,2,0,1,0,1,0,1
+Retriever,1,1,0,0,1,1,1
+Rhodesian ridgeback,6,5,1,2,4,0.5,6
+Rottweiler,664,344,176,95,361,0.9,456
+Russian terrier,1,0,1,0,1,0.3,1
+Saint Bernard,13,9,2,1,8,0.9,9
+Schnauzer,1,0,1,1,0,0.6,1
+Setter,1,0,1,0,1,1.6,1
+Sharpei,18,NA,2,1,17,0.3,18
+Sheltie,7,4,0,0,4,0,4
+Shiba Inu,3,1,1,1,1,0.2,2
+Shih Tzu,5,2,3,0,5,0.8,5
+Silver Lab,1,1,0,0,1,0,1
+Springer spaniel,4,5,0,0,5,0,5
+St. Bernard,2,2,0,0,2,0,2
+Terrier,5,2,2,0,4,0,4
+Tosa,1,1,0,0,1,0,1
+Unidentified,159,49,57,14,79,0.6,93
+Weimaraner,4,3,1,1,3,0.3,4
+West Highland terrier,2,0,2,1,1,0.7,2
+Wheaten terrier,3,1,1,0,2,0.3,2
+Wolf hybrid,88,73,6,19,53,0.01,72
