@@ -1,27 +1,33 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# 세상에서 가장 무서운 개 품종 데이터셋
+# 일본 직접투자기업 주가변동 데이터
  
-미국 비영리단체[ANIMALS 24-7](https://www.animals24-7.org)에 올라온 개 품종별 물림 사고(dog bite) 통계(1982~2015년 누적)
+외국인 직접투자(Foreign Direct Investment)는 외국인이 최소 1억원 이상을 투자해 국내기업 주식의 10% 이상을 소유하거나, 5년 이상의 장기차관을 제공하는 것이다. FDI는 그 나라가 한국 경제에 얼마나 기여하는지 보여주는 지표로 활용된다.  
 
-[데이터셋 바로보기](https://github.com/taltal-ddj/taltal/blob/master/taltal_raw/dog_bite/dog_bite.csv)
+산업통상자원부가 집계한 FDI 기업은 1만 8725개다. 
 
-PDF 파일을 CSV 형식으로 변환한 것. PDF와 HTML, CSV 파일을 모두 올려놨습니다. 
+[외국인 직접투자기업 데이타셋](https://docs.google.com/spreadsheets/d/e/2PACX-1vTptysObToVtCf-S5GHI0CHTxSJF2ojotdQ7WXpG_GYjA_r-_D8eJY2Mcbl3B59OkIO-PC7urO95ZNm/pub?gid=1796112948&single=true&output=csv)
+
+일본 기업은 3107개. 이 가운데 상장사는 79개다. 
+
+다음은 일본 직접투자기업(상장사)의 7월 1일부터 22일까지의 주가 변동 데이터다. [일본 직접투자기업 데이터셋](https://github.com/taltal-ddj/taltal/blob/master/taltal_raw/japan_investment/df_japan_investment.csv)  
+  
+산업통상자원부의 외국인 직접투자기업정보(공공데이터포탈 버전), 외국인 투자통계를 기본으로 와이즈리포트 상장기업 지분구성, 한국거래소의 주가 변동 데이터를 분석했다. 
+ 
 
 ## 칼럼 설명
 
 | 칼럼명            | 칼럼 설명                  | 데이터타입     |
 | --------------- | ------------------------- | ----------- |
-| breed       | 개 품종               | `character` |
-| attacks_doing_bodily_harm         | 사람에게 상해를 입힌 수                | `numeric` |
-| child_victims	        | 피해를 입은 어린이 수              | `numeric` |
-| adult_victims  | 피해를 입은 어른 수                 | `numeric` |
-| deaths         | 개에 물려 죽은 사람의 수            | `numeric` |
-| maimings	        | 개에 물려 불구가 된 사람의 수       | `numeric` |
-| dog_pct   | 2015년 기준 북미 지역에서 사육하는 해당 품종의 수             | `numeric` |
-| d_plus_m  | 개에 물려 죽거나 불구가 된 사람의 수      | `numeric` |
+| 종목명       | 주식종목              | `character` |
+| 국가         | 외국인 직접투자기업정보에 나온 대표투자국가          | `character` |
+| 시장구분	        | 코스피 / 코스닥           | `character` |
+| 산업분류 | 와이즈리포트의 산업구분                 | `character` |
+| 7월1일~22일 주가변동 분석  | 1일을 기준으로 시가총액의 변동율을 계산한 것(단위 %)      | `numeric` |
+ 
+ 
+## 참고 기사 
+[관련기사 보기](https://news.joins.com/article/23533092)
 
  
-## 참고사항
-- 원문을 보면 믹스견을 따로 분류해놓았지만 이 분석에서는 편의상 믹스견을 분리해서 계산. 예를 들어 저먼 세퍼드와 허스키 믹스견에게 물려 죽은 사람 수가 2명이라면 저먼 세퍼드와 허스키행에 죽은 사람 수 2명을 각각 더함. 
-- 가장 최신 데이터는 올 초 발행됐지만 그림파일 형태라 2015년 데이터로 분석. [최신 데이터 보기](https://www.animals24-7.org/2019/01/03/40-americans-canadians-killed-by-dogs-in-2018-31-by-pit-bulls/)
+
